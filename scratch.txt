@@ -1,0 +1,8 @@
+PythonProject  C:\Users\julio.rubem\PycharmProjects\PythonProject
+  .venv  library root
+    Lib
+    Scripts
+    .gitignore
+    pyvenv.cfg
+External Libraries
+Scratches and Consoles
